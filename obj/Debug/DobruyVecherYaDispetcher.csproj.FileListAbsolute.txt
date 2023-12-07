@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\bin\Debug\DobruyVecherYaDispetcher.exe.config
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\bin\Debug\DobruyVecherYaDispetcher.exe
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\bin\Debug\DobruyVecherYaDispetcher.pdb
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\obj\Debug\DobruyVecherYaDispetcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\obj\Debug\DobruyVecherYaDispetcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\obj\Debug\DobruyVecherYaDispetcher.exe
+C:\Users\User\source\repos\DobruyVecherYaDispetcher\obj\Debug\DobruyVecherYaDispetcher.pdb
